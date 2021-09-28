@@ -43,5 +43,10 @@ Push Switch는  누르고 있는 동안 1의 값을 유지하게 되고, 놓으�
 ![buzzer description2](https://user-images.githubusercontent.com/59948918/135042859-031cacc7-89ee-44bf-8f19-b47d190c526f.png)   
 ![buzzer description3](https://user-images.githubusercontent.com/59948918/135042891-7ed6e51d-25d3-417c-9add-d19c4c59f17f.png)   
 
+# 참고 자료   
+위키 백과, “DIP 스위치”, https://ko.m.wikipedia.org/wiki/DIP_%EC%8A%A4%EC%9C%84%EC%B9%98 2020.11.01   
+Python 설명서, “EFAULT”, https://python.flowdas.com/library/errno.html , 2020.11.02   
+우진샘 블로그, “register_chrdev”, https://naito.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98 , 2020.11.02   
+㈜휴인스, 「Achro-i.MX6Q을 이용한 리눅스 설계 및 응용」, 휴인스 기술연구소, 2014, 248(http://his.pusan.ac.kr/bbs/esleng/6662/641090/download.do)   
 
 
