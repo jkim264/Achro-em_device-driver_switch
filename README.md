@@ -17,6 +17,7 @@ Dual In-line Package switch
 ![dip switch description2](https://user-images.githubusercontent.com/59948918/135042238-c1b080da-719e-4628-ba49-386e4ebea774.png)   
 ![dip switch description3](https://user-images.githubusercontent.com/59948918/135042271-46493cae-e01a-4798-8dce-cd701f4306bd.png)   
 ![dip switch description4](https://user-images.githubusercontent.com/59948918/135042292-f579bafc-dbf1-47ee-840d-d81c11a20058.png)   
+***    
 ## Push Switch   
 ![push switch image](https://user-images.githubusercontent.com/59948918/135042381-2637e8ff-b7ab-4f94-9069-9c8dafd44e6c.png)
 - 외부의 입력을 받아오는 장치, Read 관련 동작만 진행됨   
@@ -28,6 +29,7 @@ Push Switch는  누르고 있는 동안 1의 값을 유지하게 되고, 놓으�
 ![push switch description1](https://user-images.githubusercontent.com/59948918/135042552-2577e4ac-a401-488d-9ee4-9849b8ed3f1b.png)
    ![push switch description2](https://user-images.githubusercontent.com/59948918/135042564-411b3f9b-c6eb-4023-a755-5c0f35edb3b3.png)
    ![push switch description3](https://user-images.githubusercontent.com/59948918/135042580-aa6da7d4-09c5-4ac0-b3ed-55ebb1dd0f4e.png)   
+   ***   
 ## Buzzer
 ![buzzer image](https://user-images.githubusercontent.com/59948918/135042668-87a8d73d-57e8-430b-ba90-f5cce305499a.png)   
 - 부저는 피에조 효과를 통해 소리를 출력   
